@@ -1,9 +1,0 @@
-{
-  "name": "Shop Records",
-  "short_name": "Shop Records",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f4f7f4",
-  "theme_color": "#176b52",
-  "description": "Track sales, purchases, inventory, and recipe costs"
-}
