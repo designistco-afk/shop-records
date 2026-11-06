@@ -3,7 +3,7 @@
   "short_name": "Shop Records",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f4f7f4",
+  "background_color": "#f6f8f5",
   "theme_color": "#176b52",
-  "description": "Track sales, purchases, inventory, and recipe costs"
+  "description": "Record sales, purchases, expenses and stock"
 }
